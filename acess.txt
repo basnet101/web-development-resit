@@ -1,0 +1,10 @@
+homepageurl: http://localhost:8000/
+
+
+adminuser: a@admin.c
+
+adminpass: adminpassword
+
+nonadminuser: bisheshbasnet@yahoo.com
+
+nonadminpassword: bishesh
